@@ -5,6 +5,7 @@ Repository for APCS A CodeHS Java
 <br>
 
 ![2 week stats](https://github.com/Tanner1638/CodeHS-APCS-Java/blob/master/Capture.PNG)
+<br>
 It's been over 3 years since I've written and posted all of this yet this repo keeps getting more and more popular!
 
 
