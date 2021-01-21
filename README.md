@@ -3,7 +3,7 @@ Repository for APCS A CodeHS Java
 
 All CodeHS unit programs can be found in their respective folders.
 
-+ Check out [Sandbox Projects](https://github.com/Tanner1638/CodeHS-APCS-Java/tree/Experimental/Sandbox%20Projects) for examples of Java API using CodeHS Sandbox 
++ Check out [Sandbox Projects](https://github.com/Tanner1638/CodeHS-APCS-Java/tree/master/Sandbox%20Projects) for examples of Java API using CodeHS Sandbox 
 
 <br>
 <br>
