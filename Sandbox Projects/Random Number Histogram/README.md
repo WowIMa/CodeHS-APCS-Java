@@ -1,5 +1,7 @@
 # Number Histogram App
-**Description:** In this program, an array is created with 25 elements. For each element in the array we are assigning a random number between 0 - 9. (results will be printed into the console)
+Tags: `arrays` `for loops` `randomizer`
+
+**Description:** In this program, an array is created with 25 elements. For each element in the array we are assigning a random number between 0 - 9 (results will be printed into the console). Afterwards, count how many times each number is inside the data array.
 
 
 
